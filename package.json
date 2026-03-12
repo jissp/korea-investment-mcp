@@ -26,6 +26,7 @@
         "adm-zip": "^0.5.16",
         "axios": "^1.13.6",
         "axios-retry": "^4.5.0",
+        "jissp-mcp-server-nestjs": "^0.0.1",
         "npm-test-jissp": "^1.0.0",
         "reflect-metadata": "^0.2.2",
         "rxjs": "^7.8.1"

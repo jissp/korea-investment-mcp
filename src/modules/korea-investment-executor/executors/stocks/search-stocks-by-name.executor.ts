@@ -1,8 +1,8 @@
 import { Injectable } from '@nestjs/common';
+import type { JsonRpcCallRequest } from 'jissp-mcp-server-nestjs';
+import { BaseExecutor, McpResource, McpTool } from 'jissp-mcp-server-nestjs';
 import kospiData from '@common/assets/kospi_code.json';
 import kosdaqData from '@common/assets/kosdaq_code.json';
-import type { JsonRpcCallRequest } from '@modules/mcp-server/mcp-server.types';
-import { BaseExecutor, McpResource, McpTool } from '@modules/mcp-server';
 
 export type SearchStocksByNameParams = {
     stockName: string;

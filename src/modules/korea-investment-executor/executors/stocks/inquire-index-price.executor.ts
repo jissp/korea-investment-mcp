@@ -1,7 +1,7 @@
 import { Injectable } from '@nestjs/common';
 import { KoreaInvestmentClient } from '@modules/korea-investment/korea-investment-client';
-import type { JsonRpcCallRequest } from '@modules/mcp-server/mcp-server.types';
-import { BaseExecutor, McpResource, McpTool } from '@modules/mcp-server';
+import type { JsonRpcCallRequest } from 'jissp-mcp-server-nestjs';
+import { BaseExecutor, McpResource, McpTool } from 'jissp-mcp-server-nestjs';
 
 export type GetStockExecutorParams = {
     FID_INPUT_ISCD: string;
