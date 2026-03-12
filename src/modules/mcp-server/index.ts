@@ -1,6 +1,5 @@
 export * from './guards';
 export * from './decorators';
-export * from './executors';
 export * from './mcp-server.types';
 export * from './base.executor';
 export * from './mcp-metadata-registry.service';

@@ -5,3 +5,4 @@ export * from './investor-trade-by-stock-daily.executor';
 export * from './daily-credit-balance.executor';
 export * from './daily-short-sale.executor';
 export * from './daily-loan-trans.executor';
+export * from './search-stocks-by-name.executor';

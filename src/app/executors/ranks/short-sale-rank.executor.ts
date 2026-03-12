@@ -1,9 +1,8 @@
 import { Injectable } from '@nestjs/common';
 import type { DomesticStockShortSaleRankParam } from '@modules/korea-investment/common';
 import { KoreaInvestmentClient } from '@modules/korea-investment/korea-investment-client';
-import type { JsonRpcCallRequest } from '../../mcp-server.types';
-import { McpResource, McpTool } from '../../decorators';
-import { BaseExecutor } from '../../base.executor';
+import type { JsonRpcCallRequest } from '@modules/mcp-server/mcp-server.types';
+import { BaseExecutor, McpResource, McpTool } from '@modules/mcp-server';
 
 export type ShortSaleRankExecutorParams = Pick<
     DomesticStockShortSaleRankParam,

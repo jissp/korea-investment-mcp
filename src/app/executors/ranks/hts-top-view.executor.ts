@@ -1,10 +1,6 @@
 import { Injectable } from '@nestjs/common';
 import { KoreaInvestmentClient } from '@modules/korea-investment/korea-investment-client';
-import { McpResource, McpTool } from '../../decorators';
-import { BaseExecutor } from '../../base.executor';
-import type { JsonRpcCallRequest } from '../../mcp-server.types';
-
-export type HtsTopViewExecutorParams = Record<string, never>;
+import { BaseExecutor, McpResource, McpTool } from '@modules/mcp-server';
 
 @Injectable()
 export class HtsTopViewExecutor implements BaseExecutor {
@@ -25,7 +21,7 @@ export class HtsTopViewExecutor implements BaseExecutor {
         description: 'HTS조회상위20종목을 조회합니다.',
         mimeType: 'application/json',
     })
-    execute(request: JsonRpcCallRequest<HtsTopViewExecutorParams>) {
+    execute() {
         return this.client.getHtsTopView();
     }
 }
