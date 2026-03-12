@@ -1,0 +1,10 @@
+services:
+  korea-investment-mcp:
+    container_name: korea-investment-mcp
+    build:
+      context: .
+      dockerfile: docker/Dockerfile
+      args:
+        - NODE_ENV=prod
+    ports:
+      - '3000:3000'
