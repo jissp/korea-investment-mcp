@@ -13,6 +13,7 @@ const DOWNLOAD_FILES = [
     'nasmst.cod.zip',
     'nysmst.cod.zip',
     'amsmst.cod.zip',
+    'frgn_code.mst.zip',
     'fo_idx_code_mts.mst.zip',
     'fo_com_code.mst.zip',
 ];

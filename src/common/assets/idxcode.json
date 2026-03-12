@@ -1,1946 +1,1946 @@
 [
   {
-    "shortCode": "0001",
+    "shortCode": "000",
     "code": "종합"
   },
   {
-    "shortCode": "0002",
+    "shortCode": "000",
     "code": "대형주"
   },
   {
-    "shortCode": "0003",
+    "shortCode": "000",
     "code": "중형주"
   },
   {
-    "shortCode": "0004",
+    "shortCode": "000",
     "code": "소형주"
   },
   {
-    "shortCode": "0005",
+    "shortCode": "000",
     "code": "음식료·담배"
   },
   {
-    "shortCode": "0006",
+    "shortCode": "000",
     "code": "섬유·의류"
   },
   {
-    "shortCode": "0007",
+    "shortCode": "000",
     "code": "종이·목재"
   },
   {
-    "shortCode": "0008",
+    "shortCode": "000",
     "code": "화학"
   },
   {
-    "shortCode": "0009",
+    "shortCode": "000",
     "code": "제약"
   },
   {
-    "shortCode": "0010",
+    "shortCode": "001",
     "code": "비금속"
   },
   {
-    "shortCode": "0011",
+    "shortCode": "001",
     "code": "금속"
   },
   {
-    "shortCode": "0012",
+    "shortCode": "001",
     "code": "기계·장비"
   },
   {
-    "shortCode": "0013",
+    "shortCode": "001",
     "code": "전기·전자"
   },
   {
-    "shortCode": "0014",
+    "shortCode": "001",
     "code": "의료·정밀기기"
   },
   {
-    "shortCode": "0015",
+    "shortCode": "001",
     "code": "운송장비·부품"
   },
   {
-    "shortCode": "0016",
+    "shortCode": "001",
     "code": "유통"
   },
   {
-    "shortCode": "0017",
+    "shortCode": "001",
     "code": "전기·가스"
   },
   {
-    "shortCode": "0018",
+    "shortCode": "001",
     "code": "건설"
   },
   {
-    "shortCode": "0019",
+    "shortCode": "001",
     "code": "운송·창고"
   },
   {
-    "shortCode": "0020",
+    "shortCode": "002",
     "code": "통신"
   },
   {
-    "shortCode": "0021",
+    "shortCode": "002",
     "code": "금융"
   },
   {
-    "shortCode": "0024",
+    "shortCode": "002",
     "code": "증권"
   },
   {
-    "shortCode": "0025",
+    "shortCode": "002",
     "code": "보험"
   },
   {
-    "shortCode": "0026",
+    "shortCode": "002",
     "code": "일반서비스"
   },
   {
-    "shortCode": "0027",
+    "shortCode": "002",
     "code": "제조"
   },
   {
-    "shortCode": "0028",
+    "shortCode": "002",
     "code": "부동산"
   },
   {
-    "shortCode": "0029",
+    "shortCode": "002",
     "code": "IT 서비스"
   },
   {
-    "shortCode": "0030",
+    "shortCode": "003",
     "code": "오락·문화"
   },
   {
-    "shortCode": "0163",
+    "shortCode": "016",
     "code": "고배당50"
   },
   {
-    "shortCode": "0164",
+    "shortCode": "016",
     "code": "배당성장50"
   },
   {
-    "shortCode": "0165",
+    "shortCode": "016",
     "code": "우선주"
   },
   {
-    "shortCode": "0195",
+    "shortCode": "019",
     "code": "코스피 TR"
   },
   {
-    "shortCode": "0241",
+    "shortCode": "024",
     "code": "코스피 고배당 50 TR"
   },
   {
-    "shortCode": "0242",
+    "shortCode": "024",
     "code": "코스피 배당성장 50 TR"
   },
   {
-    "shortCode": "0244",
+    "shortCode": "024",
     "code": "코스피200제외 코스피지수"
   },
   {
-    "shortCode": "0503",
+    "shortCode": "050",
     "code": "VKOSPI"
   },
   {
-    "shortCode": "1001",
+    "shortCode": "100",
     "code": "KOSDAQ"
   },
   {
-    "shortCode": "1002",
+    "shortCode": "100",
     "code": "코스닥 대형주"
   },
   {
-    "shortCode": "1003",
+    "shortCode": "100",
     "code": "코스닥 중형주"
   },
   {
-    "shortCode": "1004",
+    "shortCode": "100",
     "code": "코스닥 소형주"
   },
   {
-    "shortCode": "1006",
+    "shortCode": "100",
     "code": "일반서비스"
   },
   {
-    "shortCode": "1009",
+    "shortCode": "100",
     "code": "제조"
   },
   {
-    "shortCode": "1010",
+    "shortCode": "101",
     "code": "건설"
   },
   {
-    "shortCode": "1011",
+    "shortCode": "101",
     "code": "유통"
   },
   {
-    "shortCode": "1013",
+    "shortCode": "101",
     "code": "운송·창고"
   },
   {
-    "shortCode": "1014",
+    "shortCode": "101",
     "code": "금융"
   },
   {
-    "shortCode": "1015",
+    "shortCode": "101",
     "code": "오락·문화"
   },
   {
-    "shortCode": "1019",
+    "shortCode": "101",
     "code": "음식료·담배"
   },
   {
-    "shortCode": "1020",
+    "shortCode": "102",
     "code": "섬유·의류"
   },
   {
-    "shortCode": "1021",
+    "shortCode": "102",
     "code": "종이·목재"
   },
   {
-    "shortCode": "1022",
+    "shortCode": "102",
     "code": "출판·매체복제"
   },
   {
-    "shortCode": "1023",
+    "shortCode": "102",
     "code": "화학"
   },
   {
-    "shortCode": "1024",
+    "shortCode": "102",
     "code": "제약"
   },
   {
-    "shortCode": "1025",
+    "shortCode": "102",
     "code": "비금속"
   },
   {
-    "shortCode": "1026",
+    "shortCode": "102",
     "code": "금속"
   },
   {
-    "shortCode": "1027",
+    "shortCode": "102",
     "code": "기계·장비"
   },
   {
-    "shortCode": "1028",
+    "shortCode": "102",
     "code": "전기·전자"
   },
   {
-    "shortCode": "1029",
+    "shortCode": "102",
     "code": "의료·정밀기기"
   },
   {
-    "shortCode": "1030",
+    "shortCode": "103",
     "code": "운송장비·부품"
   },
   {
-    "shortCode": "1031",
+    "shortCode": "103",
     "code": "기타제조"
   },
   {
-    "shortCode": "1032",
+    "shortCode": "103",
     "code": "통신"
   },
   {
-    "shortCode": "1033",
+    "shortCode": "103",
     "code": "IT 서비스"
   },
   {
-    "shortCode": "1042",
+    "shortCode": "104",
     "code": "우량기업"
   },
   {
-    "shortCode": "1043",
+    "shortCode": "104",
     "code": "벤처기업"
   },
   {
-    "shortCode": "1044",
+    "shortCode": "104",
     "code": "중견기업"
   },
   {
-    "shortCode": "1045",
+    "shortCode": "104",
     "code": "기술성장기업"
   },
   {
-    "shortCode": "1049",
+    "shortCode": "104",
     "code": "코스닥 글로벌"
   },
   {
-    "shortCode": "1196",
+    "shortCode": "119",
     "code": "코스닥 TR"
   },
   {
-    "shortCode": "1331",
+    "shortCode": "133",
     "code": "코스닥 150 거버넌스"
   },
   {
-    "shortCode": "2001",
+    "shortCode": "200",
     "code": "KOSPI200"
   },
   {
-    "shortCode": "2007",
+    "shortCode": "200",
     "code": "KOSPI100"
   },
   {
-    "shortCode": "2008",
+    "shortCode": "200",
     "code": "KOSPI50"
   },
   {
-    "shortCode": "2009",
+    "shortCode": "200",
     "code": "K건설"
   },
   {
-    "shortCode": "2010",
+    "shortCode": "201",
     "code": "K중공업"
   },
   {
-    "shortCode": "2011",
+    "shortCode": "201",
     "code": "K철강소재"
   },
   {
-    "shortCode": "2012",
+    "shortCode": "201",
     "code": "K에너지화학"
   },
   {
-    "shortCode": "2013",
+    "shortCode": "201",
     "code": "K정보기술"
   },
   {
-    "shortCode": "2014",
+    "shortCode": "201",
     "code": "K금융"
   },
   {
-    "shortCode": "2015",
+    "shortCode": "201",
     "code": "K생활소비재"
   },
   {
-    "shortCode": "2016",
+    "shortCode": "201",
     "code": "K경기소비재"
   },
   {
-    "shortCode": "2017",
+    "shortCode": "201",
     "code": "K산업재"
   },
   {
-    "shortCode": "2018",
+    "shortCode": "201",
     "code": "K헬스케어"
   },
   {
-    "shortCode": "2019",
+    "shortCode": "201",
     "code": "K고배당"
   },
   {
-    "shortCode": "2021",
+    "shortCode": "202",
     "code": "K200가치저변동성"
   },
   {
-    "shortCode": "2022",
+    "shortCode": "202",
     "code": "K200중소형주"
   },
   {
-    "shortCode": "2023",
+    "shortCode": "202",
     "code": "K200경기방어소비재"
   },
   {
-    "shortCode": "2024",
+    "shortCode": "202",
     "code": "K200에너지화학 레버리지"
   },
   {
-    "shortCode": "2025",
+    "shortCode": "202",
     "code": "K200정보기술 레버리지"
   },
   {
-    "shortCode": "2026",
+    "shortCode": "202",
     "code": "K200금융 레버리지"
   },
   {
-    "shortCode": "2027",
+    "shortCode": "202",
     "code": "K200경기소비재 레버리지"
   },
   {
-    "shortCode": "2028",
+    "shortCode": "202",
     "code": "K200건설 레버리지"
   },
   {
-    "shortCode": "2029",
+    "shortCode": "202",
     "code": "K200중공업 레버리지"
   },
   {
-    "shortCode": "2030",
+    "shortCode": "203",
     "code": "K200헬스케어 레버리지"
   },
   {
-    "shortCode": "2035",
+    "shortCode": "203",
     "code": "코스피200 TR"
   },
   {
-    "shortCode": "2036",
+    "shortCode": "203",
     "code": "코스피200 NTR"
   },
   {
-    "shortCode": "2037",
+    "shortCode": "203",
     "code": "코스피200 예측 고배당 50"
   },
   {
-    "shortCode": "2038",
+    "shortCode": "203",
     "code": "코스피200 예측 배당성장 50"
   },
   {
-    "shortCode": "2039",
+    "shortCode": "203",
     "code": "K커뮤니케이션서비스"
   },
   {
-    "shortCode": "2040",
+    "shortCode": "204",
     "code": "코스피200 초대형 제외지수"
   },
   {
-    "shortCode": "2041",
+    "shortCode": "204",
     "code": "K200 정보기술 TR"
   },
   {
-    "shortCode": "2042",
+    "shortCode": "204",
     "code": "K200 금융 TR"
   },
   {
-    "shortCode": "2043",
+    "shortCode": "204",
     "code": "K200 경기소비재 TR"
   },
   {
-    "shortCode": "2044",
+    "shortCode": "204",
     "code": "K200 에너지화학 TR"
   },
   {
-    "shortCode": "2045",
+    "shortCode": "204",
     "code": "K200 생활소비재 TR"
   },
   {
-    "shortCode": "2046",
+    "shortCode": "204",
     "code": "K200 건설 TR"
   },
   {
-    "shortCode": "2047",
+    "shortCode": "204",
     "code": "K200 중공업 TR"
   },
   {
-    "shortCode": "2048",
+    "shortCode": "204",
     "code": "K200 철강소재 TR"
   },
   {
-    "shortCode": "2049",
+    "shortCode": "204",
     "code": "K200 산업재 TR"
   },
   {
-    "shortCode": "2050",
+    "shortCode": "205",
     "code": "K200 헬스케어 TR"
   },
   {
-    "shortCode": "2051",
+    "shortCode": "205",
     "code": "K200 커뮤니케이션서비스 TR"
   },
   {
-    "shortCode": "2180",
+    "shortCode": "218",
     "code": "코스피 200 ESG 지수"
   },
   {
-    "shortCode": "2224",
+    "shortCode": "222",
     "code": "K200 비중상한 30%"
   },
   {
-    "shortCode": "2225",
+    "shortCode": "222",
     "code": "K200 비중상한 30%  TR"
   },
   {
-    "shortCode": "2226",
+    "shortCode": "222",
     "code": "K200 비중상한 30%  NTR"
   },
   {
-    "shortCode": "2227",
+    "shortCode": "222",
     "code": "K200 비중상한 25%"
   },
   {
-    "shortCode": "2228",
+    "shortCode": "222",
     "code": "K200 비중상한 25%  TR"
   },
   {
-    "shortCode": "2230",
+    "shortCode": "223",
     "code": "K200 비중상한 25%  NTR"
   },
   {
-    "shortCode": "2232",
+    "shortCode": "223",
     "code": "K200 비중상한 20%"
   },
   {
-    "shortCode": "2233",
+    "shortCode": "223",
     "code": "K200 비중상한 20%  TR"
   },
   {
-    "shortCode": "2235",
+    "shortCode": "223",
     "code": "K200 비중상한 20%  NTR"
   },
   {
-    "shortCode": "2283",
+    "shortCode": "228",
     "code": "코스피 200 기후변화지수"
   },
   {
-    "shortCode": "2284",
+    "shortCode": "228",
     "code": "코스피 200 선물지수 TWAP형"
   },
   {
-    "shortCode": "2285",
+    "shortCode": "228",
     "code": "코스피 200 선물 TWAP 인버스지수"
   },
   {
-    "shortCode": "2286",
+    "shortCode": "228",
     "code": "코스피 200 선물 TWAP 레버리지"
   },
   {
-    "shortCode": "2287",
+    "shortCode": "228",
     "code": "코스피 200 선물 TWAP 인버스-2X"
   },
   {
-    "shortCode": "2501",
+    "shortCode": "250",
     "code": "K200선물"
   },
   {
-    "shortCode": "2502",
+    "shortCode": "250",
     "code": "F-K200 인버스"
   },
   {
-    "shortCode": "2503",
+    "shortCode": "250",
     "code": "K200 레버리지"
   },
   {
-    "shortCode": "2505",
+    "shortCode": "250",
     "code": "K200커버드콜 5% OTM"
   },
   {
-    "shortCode": "2506",
+    "shortCode": "250",
     "code": "K200프로텍티브풋 5% OTM"
   },
   {
-    "shortCode": "2705",
+    "shortCode": "270",
     "code": "F-K200 인버스-2X"
   },
   {
-    "shortCode": "2706",
+    "shortCode": "270",
     "code": "F-K200 인버스-3X"
   },
   {
-    "shortCode": "2716",
+    "shortCode": "271",
     "code": "F-KOSPI 200 레버리지"
   },
   {
-    "shortCode": "2721",
+    "shortCode": "272",
     "code": "미니 F-KOSP200"
   },
   {
-    "shortCode": "2722",
+    "shortCode": "272",
     "code": "미니 F-KOSP200 레버리지"
   },
   {
-    "shortCode": "2723",
+    "shortCode": "272",
     "code": "미니 F-KOSP200 인버스"
   },
   {
-    "shortCode": "2724",
+    "shortCode": "272",
     "code": "미니 F-KOSP200 인버스-2X"
   },
   {
-    "shortCode": "2731",
+    "shortCode": "273",
     "code": "K200 현선물레버리지 1.5X"
   },
   {
-    "shortCode": "2751",
+    "shortCode": "275",
     "code": "F-K200 에너지/화학"
   },
   {
-    "shortCode": "2752",
+    "shortCode": "275",
     "code": "F-K200 정보기술"
   },
   {
-    "shortCode": "2753",
+    "shortCode": "275",
     "code": "F-K200 금융"
   },
   {
-    "shortCode": "2754",
+    "shortCode": "275",
     "code": "F-K200 경기소비재"
   },
   {
-    "shortCode": "2755",
+    "shortCode": "275",
     "code": "F-K200 건설"
   },
   {
-    "shortCode": "2756",
+    "shortCode": "275",
     "code": "F-K200 중공업"
   },
   {
-    "shortCode": "2757",
+    "shortCode": "275",
     "code": "F-K200 헬스케어"
   },
   {
-    "shortCode": "2758",
+    "shortCode": "275",
     "code": "F-K200 생활소비재"
   },
   {
-    "shortCode": "2759",
+    "shortCode": "275",
     "code": "F-K200 철강/소재"
   },
   {
-    "shortCode": "2760",
+    "shortCode": "276",
     "code": "F-K200 산업재"
   },
   {
-    "shortCode": "2761",
+    "shortCode": "276",
     "code": "F-K200 에너지/화학  레버리지"
   },
   {
-    "shortCode": "2762",
+    "shortCode": "276",
     "code": "F-K200 정보기술  레버리지"
   },
   {
-    "shortCode": "2763",
+    "shortCode": "276",
     "code": "F-K200 금융  레버리지"
   },
   {
-    "shortCode": "2764",
+    "shortCode": "276",
     "code": "F-K200 경기소비재  레버리지"
   },
   {
-    "shortCode": "2765",
+    "shortCode": "276",
     "code": "F-K200 건설  레버리지"
   },
   {
-    "shortCode": "2766",
+    "shortCode": "276",
     "code": "F-K200 중공업  레버리지"
   },
   {
-    "shortCode": "2767",
+    "shortCode": "276",
     "code": "F-K200 헬스케어  레버리지"
   },
   {
-    "shortCode": "2768",
+    "shortCode": "276",
     "code": "F-K200 생활소비재  레버리지"
   },
   {
-    "shortCode": "2769",
+    "shortCode": "276",
     "code": "F-K200 철강/소재  레버리지"
   },
   {
-    "shortCode": "2770",
+    "shortCode": "277",
     "code": "F-K200 산업재  레버리지"
   },
   {
-    "shortCode": "2771",
+    "shortCode": "277",
     "code": "F-K200 에너지/화학  인버스"
   },
   {
-    "shortCode": "2772",
+    "shortCode": "277",
     "code": "F-K200 정보기술  인버스"
   },
   {
-    "shortCode": "2773",
+    "shortCode": "277",
     "code": "F-K200 금융  인버스"
   },
   {
-    "shortCode": "2774",
+    "shortCode": "277",
     "code": "F-K200 경기소비재  인버스"
   },
   {
-    "shortCode": "2775",
+    "shortCode": "277",
     "code": "F-K200 건설  인버스"
   },
   {
-    "shortCode": "2776",
+    "shortCode": "277",
     "code": "F-K200 중공업  인버스"
   },
   {
-    "shortCode": "2777",
+    "shortCode": "277",
     "code": "F-K200 헬스케어  인버스"
   },
   {
-    "shortCode": "2778",
+    "shortCode": "277",
     "code": "F-K200 생활소비재  인버스"
   },
   {
-    "shortCode": "2779",
+    "shortCode": "277",
     "code": "F-K200 철강/소재  인버스"
   },
   {
-    "shortCode": "2780",
+    "shortCode": "278",
     "code": "F-K200 산업재  선물 인버스"
   },
   {
-    "shortCode": "2781",
+    "shortCode": "278",
     "code": "F-K200 에너지/화학  인버스-2X"
   },
   {
-    "shortCode": "2782",
+    "shortCode": "278",
     "code": "F-K200 정보기술  인버스-2X"
   },
   {
-    "shortCode": "2783",
+    "shortCode": "278",
     "code": "F-K200 금융  인버스-2X"
   },
   {
-    "shortCode": "2784",
+    "shortCode": "278",
     "code": "F-K200 경기소비재  인버스-2X"
   },
   {
-    "shortCode": "2785",
+    "shortCode": "278",
     "code": "F-K200 건설  인버스-2X"
   },
   {
-    "shortCode": "2786",
+    "shortCode": "278",
     "code": "F-K200 중공업  인버스-2X"
   },
   {
-    "shortCode": "2787",
+    "shortCode": "278",
     "code": "F-K200 헬스케어  인버스-2X"
   },
   {
-    "shortCode": "2788",
+    "shortCode": "278",
     "code": "F-K200 생활소비재  인버스-2X"
   },
   {
-    "shortCode": "2789",
+    "shortCode": "278",
     "code": "F-K200 철강/소재  인버스-2X"
   },
   {
-    "shortCode": "2790",
+    "shortCode": "279",
     "code": "F-K200 산업재  인버스-2X"
   },
   {
-    "shortCode": "3003",
+    "shortCode": "300",
     "code": "KSQ150"
   },
   {
-    "shortCode": "3004",
+    "shortCode": "300",
     "code": "KSQ150 동일가중"
   },
   {
-    "shortCode": "3005",
+    "shortCode": "300",
     "code": "KSQ150 레버리지"
   },
   {
-    "shortCode": "3006",
+    "shortCode": "300",
     "code": "F-KSQ150"
   },
   {
-    "shortCode": "3007",
+    "shortCode": "300",
     "code": "F-KSQ150 인버스"
   },
   {
-    "shortCode": "3008",
+    "shortCode": "300",
     "code": "F-KSQ150 인버스-2X"
   },
   {
-    "shortCode": "3009",
+    "shortCode": "300",
     "code": "F-KSQ150 인버스-3X"
   },
   {
-    "shortCode": "3010",
+    "shortCode": "301",
     "code": "KSQ150 레버리지 0.5"
   },
   {
-    "shortCode": "3012",
+    "shortCode": "301",
     "code": "KSQ150 소재"
   },
   {
-    "shortCode": "3013",
+    "shortCode": "301",
     "code": "KSQ150 산업재"
   },
   {
-    "shortCode": "3014",
+    "shortCode": "301",
     "code": "KSQ150 필수소비재"
   },
   {
-    "shortCode": "3015",
+    "shortCode": "301",
     "code": "KSQ150 자유소비재"
   },
   {
-    "shortCode": "3016",
+    "shortCode": "301",
     "code": "KSQ150 정보기술"
   },
   {
-    "shortCode": "3017",
+    "shortCode": "301",
     "code": "코스닥 150 헬스케어"
   },
   {
-    "shortCode": "3018",
+    "shortCode": "301",
     "code": "코스닥 150 커뮤니케이션서비스"
   },
   {
-    "shortCode": "3020",
+    "shortCode": "302",
     "code": "F-KSQ150 레버리지"
   },
   {
-    "shortCode": "3197",
+    "shortCode": "319",
     "code": "코스닥 150 TR"
   },
   {
-    "shortCode": "3420",
+    "shortCode": "342",
     "code": "코스닥 150 선물지수 TWAP형"
   },
   {
-    "shortCode": "3421",
+    "shortCode": "342",
     "code": "코스닥 150 선물 TWAP 인버스지수"
   },
   {
-    "shortCode": "3422",
+    "shortCode": "342",
     "code": "코스닥 150 선물 TWAP 레버리지"
   },
   {
-    "shortCode": "3423",
+    "shortCode": "342",
     "code": "코스닥 150 선물 TWAP 인버스-2X"
   },
   {
-    "shortCode": "3501",
+    "shortCode": "350",
     "code": "코넥스"
   },
   {
-    "shortCode": "4001",
+    "shortCode": "400",
     "code": "KRX100"
   },
   {
-    "shortCode": "4002",
+    "shortCode": "400",
     "code": "KRX 자동차"
   },
   {
-    "shortCode": "4003",
+    "shortCode": "400",
     "code": "KRX 반도체"
   },
   {
-    "shortCode": "4004",
+    "shortCode": "400",
     "code": "KRX 헬스케어"
   },
   {
-    "shortCode": "4005",
+    "shortCode": "400",
     "code": "KRX 은행"
   },
   {
-    "shortCode": "4007",
+    "shortCode": "400",
     "code": "KRX 에너지화학"
   },
   {
-    "shortCode": "4008",
+    "shortCode": "400",
     "code": "KRX 철강"
   },
   {
-    "shortCode": "4010",
+    "shortCode": "401",
     "code": "KRX 방송통신"
   },
   {
-    "shortCode": "4011",
+    "shortCode": "401",
     "code": "KRX 건설"
   },
   {
-    "shortCode": "4013",
+    "shortCode": "401",
     "code": "KRX 증권"
   },
   {
-    "shortCode": "4014",
+    "shortCode": "401",
     "code": "KRX 기계장비"
   },
   {
-    "shortCode": "4015",
+    "shortCode": "401",
     "code": "KRX 보험"
   },
   {
-    "shortCode": "4016",
+    "shortCode": "401",
     "code": "KRX 운송"
   },
   {
-    "shortCode": "4061",
+    "shortCode": "406",
     "code": "KRX 경기소비재"
   },
   {
-    "shortCode": "4062",
+    "shortCode": "406",
     "code": "KRX 필수소비재"
   },
   {
-    "shortCode": "4063",
+    "shortCode": "406",
     "code": "KRX 미디어&엔터테인먼트"
   },
   {
-    "shortCode": "4064",
+    "shortCode": "406",
     "code": "KRX 정보기술"
   },
   {
-    "shortCode": "4065",
+    "shortCode": "406",
     "code": "KRX 유틸리티"
   },
   {
-    "shortCode": "4132",
+    "shortCode": "413",
     "code": "KRX ESG Leaders 150"
   },
   {
-    "shortCode": "4133",
+    "shortCode": "413",
     "code": "KRX Governance Leaders 150"
   },
   {
-    "shortCode": "4134",
+    "shortCode": "413",
     "code": "KRX Eco Leaders 150"
   },
   {
-    "shortCode": "4136",
+    "shortCode": "413",
     "code": "KRX 사회책임경영지수"
   },
   {
-    "shortCode": "4142",
+    "shortCode": "414",
     "code": "KRX 최소변동성지수"
   },
   {
-    "shortCode": "4198",
+    "shortCode": "419",
     "code": "KRX 300 TR"
   },
   {
-    "shortCode": "4300",
+    "shortCode": "430",
     "code": "KRX 300"
   },
   {
-    "shortCode": "4304",
+    "shortCode": "430",
     "code": "KRX 300 선물지수"
   },
   {
-    "shortCode": "4305",
+    "shortCode": "430",
     "code": "KRX 300 레버리지지수"
   },
   {
-    "shortCode": "4306",
+    "shortCode": "430",
     "code": "KRX 300 선물 레버리지지수"
   },
   {
-    "shortCode": "4307",
+    "shortCode": "430",
     "code": "KRX 300 선물 인버스지수"
   },
   {
-    "shortCode": "4308",
+    "shortCode": "430",
     "code": "KRX 300 선물 인버스-2X지수"
   },
   {
-    "shortCode": "4351",
+    "shortCode": "435",
     "code": "KRX 300 정보기술"
   },
   {
-    "shortCode": "4352",
+    "shortCode": "435",
     "code": "KRX 300 금융"
   },
   {
-    "shortCode": "4353",
+    "shortCode": "435",
     "code": "KRX 300 자유소비재"
   },
   {
-    "shortCode": "4354",
+    "shortCode": "435",
     "code": "KRX 300 산업재"
   },
   {
-    "shortCode": "4355",
+    "shortCode": "435",
     "code": "KRX 300 헬스케어"
   },
   {
-    "shortCode": "4356",
+    "shortCode": "435",
     "code": "KRX 300 커뮤니케이션서비스"
   },
   {
-    "shortCode": "4357",
+    "shortCode": "435",
     "code": "KRX 300 소재"
   },
   {
-    "shortCode": "4358",
+    "shortCode": "435",
     "code": "KRX 300 필수소비재"
   },
   {
-    "shortCode": "4411",
+    "shortCode": "441",
     "code": "KRX BBIG 지수"
   },
   {
-    "shortCode": "4412",
+    "shortCode": "441",
     "code": "KRX 2차전지TOP 10 지수"
   },
   {
-    "shortCode": "4413",
+    "shortCode": "441",
     "code": "KRX 바이오 TOP 10 지수"
   },
   {
-    "shortCode": "4414",
+    "shortCode": "441",
     "code": "KRX 인터넷 TOP 10 지수"
   },
   {
-    "shortCode": "4415",
+    "shortCode": "441",
     "code": "KRX 게임 TOP 10 지수"
   },
   {
-    "shortCode": "4416",
+    "shortCode": "441",
     "code": "KRX BBIG 리스크컨트롤12%"
   },
   {
-    "shortCode": "4417",
+    "shortCode": "441",
     "code": "KRX BBIG 리스크컨트롤12% 비용차감"
   },
   {
-    "shortCode": "4418",
+    "shortCode": "441",
     "code": "KRX 300 기후변화지수"
   },
   {
-    "shortCode": "4419",
+    "shortCode": "441",
     "code": "KRX 기후변화 솔루션지수"
   },
   {
-    "shortCode": "4420",
+    "shortCode": "442",
     "code": "KRX 블루칩 25"
   },
   {
-    "shortCode": "4421",
+    "shortCode": "442",
     "code": "KRX 전기차 Top 15"
   },
   {
-    "shortCode": "4422",
+    "shortCode": "442",
     "code": "KRX 반도체 Top 15"
   },
   {
-    "shortCode": "4426",
+    "shortCode": "442",
     "code": "KKRX 블루칩 25 USD"
   },
   {
-    "shortCode": "4427",
+    "shortCode": "442",
     "code": "KRX 전기차 Top 15 USD"
   },
   {
-    "shortCode": "4428",
+    "shortCode": "442",
     "code": "KRX 반도체 Top 15 USD"
   },
   {
-    "shortCode": "4429",
+    "shortCode": "442",
     "code": "KRX CSI 한중 대표기업 50"
   },
   {
-    "shortCode": "4430",
+    "shortCode": "443",
     "code": "KRX CSI 한중 전기차지수"
   },
   {
-    "shortCode": "4431",
+    "shortCode": "443",
     "code": "KRX CSI 한중 반도체지수"
   },
   {
-    "shortCode": "4442",
+    "shortCode": "444",
     "code": "KRX FactSet 모빌리티 이노베이터"
   },
   {
-    "shortCode": "4443",
+    "shortCode": "444",
     "code": "KRX FactSet 디지털 헬스케어"
   },
   {
-    "shortCode": "4444",
+    "shortCode": "444",
     "code": "KRX FactSet 디지털 인프라"
   },
   {
-    "shortCode": "4445",
+    "shortCode": "444",
     "code": "KRX FactSet 차세대 에너지"
   },
   {
-    "shortCode": "4446",
+    "shortCode": "444",
     "code": "코리아 밸류업 지수"
   },
   {
-    "shortCode": "4447",
+    "shortCode": "444",
     "code": "코리아 밸류업 TR 지수"
   },
   {
-    "shortCode": "4448",
+    "shortCode": "444",
     "code": "KRX TMI"
   },
   {
-    "shortCode": "4449",
+    "shortCode": "444",
     "code": "KRX 중대형 TMI"
   },
   {
-    "shortCode": "4450",
+    "shortCode": "445",
     "code": "KRX 중형 TMI"
   },
   {
-    "shortCode": "4451",
+    "shortCode": "445",
     "code": "KRX 소형 TMI"
   },
   {
-    "shortCode": "4452",
+    "shortCode": "445",
     "code": "KRX 초소형 TMI"
   },
   {
-    "shortCode": "4453",
+    "shortCode": "445",
     "code": "KRX 2차전지 TOP 10 TR 지수"
   },
   {
-    "shortCode": "4454",
+    "shortCode": "445",
     "code": "KRX 2차전지 TOP 10 TR 레버리지 지수"
   },
   {
-    "shortCode": "4600",
+    "shortCode": "460",
     "code": "KTOP 30"
   },
   {
-    "shortCode": "4601",
+    "shortCode": "460",
     "code": "KTOP 30 레버리지"
   },
   {
-    "shortCode": "4602",
+    "shortCode": "460",
     "code": "코스피200 코스닥150 고정비중 50:50"
   },
   {
-    "shortCode": "4603",
+    "shortCode": "460",
     "code": "코스피200 코스닥150 고정비중 70:30"
   },
   {
-    "shortCode": "4604",
+    "shortCode": "460",
     "code": "코스피200 코스닥150 고정비중 30:70"
   },
   {
-    "shortCode": "4605",
+    "shortCode": "460",
     "code": "코스피200 코스닥150 고정비중 5:5레버리지"
   },
   {
-    "shortCode": "4916",
+    "shortCode": "491",
     "code": "KRX BBIG 레버리지 지수"
   },
   {
-    "shortCode": "4917",
+    "shortCode": "491",
     "code": "KRX 2차전지 TOP 10 레버리지 지수"
   },
   {
-    "shortCode": "4918",
+    "shortCode": "491",
     "code": "KRX 리츠 TOP 10"
   },
   {
-    "shortCode": "4919",
+    "shortCode": "491",
     "code": "KRX 리츠 TOP 10 레버리지"
   },
   {
-    "shortCode": "6001",
+    "shortCode": "600",
     "code": "미국달러선물"
   },
   {
-    "shortCode": "6002",
+    "shortCode": "600",
     "code": "미국달러선물 인버스"
   },
   {
-    "shortCode": "6003",
+    "shortCode": "600",
     "code": "미국달러선물 레버리지"
   },
   {
-    "shortCode": "6004",
+    "shortCode": "600",
     "code": "미국달러선물 TR"
   },
   {
-    "shortCode": "6008",
+    "shortCode": "600",
     "code": "국채선물지수"
   },
   {
-    "shortCode": "6009",
+    "shortCode": "600",
     "code": "국채선물지수 인버스"
   },
   {
-    "shortCode": "6010",
+    "shortCode": "601",
     "code": "10년국채선물지수"
   },
   {
-    "shortCode": "6011",
+    "shortCode": "601",
     "code": "10년국채선물지수 인버스"
   },
   {
-    "shortCode": "6013",
+    "shortCode": "601",
     "code": "미국달러선물 인버스-2X"
   },
   {
-    "shortCode": "6014",
+    "shortCode": "601",
     "code": "미국달러선물 인버스-3X"
   },
   {
-    "shortCode": "6015",
+    "shortCode": "601",
     "code": "10년국채선물레버리지지수"
   },
   {
-    "shortCode": "6016",
+    "shortCode": "601",
     "code": "10년국채선물인버스레버리지지수"
   },
   {
-    "shortCode": "6018",
+    "shortCode": "601",
     "code": "엔선물"
   },
   {
-    "shortCode": "6019",
+    "shortCode": "601",
     "code": "엔선물 레버리지"
   },
   {
-    "shortCode": "6020",
+    "shortCode": "602",
     "code": "엔선물 인버스"
   },
   {
-    "shortCode": "6021",
+    "shortCode": "602",
     "code": "엔선물 인버스-2X"
   },
   {
-    "shortCode": "6022",
+    "shortCode": "602",
     "code": "엔선물 인버스-3X"
   },
   {
-    "shortCode": "6023",
+    "shortCode": "602",
     "code": "유로선물"
   },
   {
-    "shortCode": "6024",
+    "shortCode": "602",
     "code": "유로선물 레버리지"
   },
   {
-    "shortCode": "6025",
+    "shortCode": "602",
     "code": "유로선물 인버스"
   },
   {
-    "shortCode": "6026",
+    "shortCode": "602",
     "code": "유로선물 인버스-2X"
   },
   {
-    "shortCode": "6027",
+    "shortCode": "602",
     "code": "유로선물 인버스-3X"
   },
   {
-    "shortCode": "6028",
+    "shortCode": "602",
     "code": "KRX 금현물지수"
   },
   {
-    "shortCode": "6029",
+    "shortCode": "602",
     "code": "KRX 금현물지수 USD"
   },
   {
-    "shortCode": "6030",
+    "shortCode": "603",
     "code": "KRX 금현물 레버리지"
   },
   {
-    "shortCode": "6103",
+    "shortCode": "610",
     "code": "한.대만 IT 프리미어지수"
   },
   {
-    "shortCode": "6104",
+    "shortCode": "610",
     "code": "KRX/S&P 탄소효율 그린뉴딜지수"
   },
   {
-    "shortCode": "6105",
+    "shortCode": "610",
     "code": "KRX/S&P ESG 고배당"
   },
   {
-    "shortCode": "6239",
+    "shortCode": "623",
     "code": "FnGuide IoT"
   },
   {
-    "shortCode": "6243",
+    "shortCode": "624",
     "code": "리츠인프라 우선주 혼합"
   },
   {
-    "shortCode": "6268",
+    "shortCode": "626",
     "code": "HSCEI Short Index(Total Return)"
   },
   {
-    "shortCode": "6269",
+    "shortCode": "626",
     "code": "HSCEI TR 2x Leveraged 지수"
   },
   {
-    "shortCode": "6270",
+    "shortCode": "627",
     "code": "HSCEI 2x Short 지수"
   },
   {
-    "shortCode": "6275",
+    "shortCode": "627",
     "code": "Bloomberg Copper Single TR"
   },
   {
-    "shortCode": "6276",
-    "code": "Bloomberg Copper Single 2X Leveraged T"
+    "shortCode": "627",
+    "code": "Bloomberg Copper Single 2X Levera"
   },
   {
-    "shortCode": "6277",
-    "code": "Bloomberg Copper Single 2X Inverse TR"
+    "shortCode": "627",
+    "code": "Bloomberg Copper Single 2X Invers"
   },
   {
-    "shortCode": "6278",
-    "code": "S&P GSCI Carbon Emission Allowances"
+    "shortCode": "627",
+    "code": "S&P GSCI Carbon Emission Allowanc"
   },
   {
-    "shortCode": "6279",
+    "shortCode": "627",
     "code": "Bloomberg WTI Crude Oil Single TR"
   },
   {
-    "shortCode": "6280",
-    "code": "Bloomberg WTI Single 2X Leveraged TR"
+    "shortCode": "628",
+    "code": "Bloomberg WTI Single 2X Leveraged"
   },
   {
-    "shortCode": "6281",
-    "code": "Bloomberg WTI Single 2X Inverse TR"
+    "shortCode": "628",
+    "code": "Bloomberg WTI Single 2X Inverse T"
   },
   {
-    "shortCode": "6282",
+    "shortCode": "628",
     "code": "코스피 200 NTR 고정배당 8 포인트 지수"
   },
   {
-    "shortCode": "6286",
+    "shortCode": "628",
     "code": "DJSI Korea Capped 25% Index(KRW)"
   },
   {
-    "shortCode": "6287",
+    "shortCode": "628",
     "code": "S&P 500 Futures 2X Inverse TR"
   },
   {
-    "shortCode": "6288",
+    "shortCode": "628",
     "code": "S&P 500 Futures 2X Leveraged TR"
   },
   {
-    "shortCode": "6289",
-    "code": "Euro Stoxx 50 Daily Leverage Index(GR)"
+    "shortCode": "628",
+    "code": "Euro Stoxx 50 Daily Leverage Inde"
   },
   {
-    "shortCode": "6290",
-    "code": "Euro Stoxx 50 Daily Double Short(GR)"
+    "shortCode": "629",
+    "code": "Euro Stoxx 50 Daily Double Short("
   },
   {
-    "shortCode": "6291",
-    "code": "Euro Stoxx 50 Daily Short (Gross Retur"
+    "shortCode": "629",
+    "code": "Euro Stoxx 50 Daily Short (Gross"
   },
   {
-    "shortCode": "6292",
-    "code": "NASDAQ-100 Leveraged Total Return Inde"
+    "shortCode": "629",
+    "code": "NASDAQ-100 Leveraged Total Return"
   },
   {
-    "shortCode": "6293",
-    "code": "NASDAQ-100 1x Short Total Return Index"
+    "shortCode": "629",
+    "code": "NASDAQ-100 1x Short Total Return"
   },
   {
-    "shortCode": "6294",
-    "code": "NASDAQ-100 2x Short Total Return Index"
+    "shortCode": "629",
+    "code": "NASDAQ-100 2x Short Total Return"
   },
   {
-    "shortCode": "6295",
+    "shortCode": "629",
     "code": "NASDAQ-100 Total Return Index"
   },
   {
-    "shortCode": "6296",
+    "shortCode": "629",
     "code": "DJCI Natual Gas 2X Inverse TR"
   },
   {
-    "shortCode": "6297",
+    "shortCode": "629",
     "code": "DJCI Natual Gas 2X Leveraged TR"
   },
   {
-    "shortCode": "6298",
+    "shortCode": "629",
     "code": "S&P 500 Future Index TR"
   },
   {
-    "shortCode": "6301",
+    "shortCode": "630",
     "code": "DJCI Platinum(BOK Call Rate) TR"
   },
   {
-    "shortCode": "6302",
-    "code": "DJCI Platinum Inverse(BOK Call Rate) T"
+    "shortCode": "630",
+    "code": "DJCI Platinum Inverse(BOK Call Ra"
   },
   {
-    "shortCode": "6303",
+    "shortCode": "630",
     "code": "DJCI Gold TR"
   },
   {
-    "shortCode": "6304",
+    "shortCode": "630",
     "code": "DJCI Inverse Gold TR"
   },
   {
-    "shortCode": "6305",
+    "shortCode": "630",
     "code": "DJCI Silver TR"
   },
   {
-    "shortCode": "6306",
+    "shortCode": "630",
     "code": "DJCI Inverse Silver TR"
   },
   {
-    "shortCode": "6308",
+    "shortCode": "630",
     "code": "국채 3-10년 선물지수"
   },
   {
-    "shortCode": "6309",
+    "shortCode": "630",
     "code": "국채 3-10년 선물레버리지지수"
   },
   {
-    "shortCode": "6310",
+    "shortCode": "631",
     "code": "국채 3-10년 선물인버스지수"
   },
   {
-    "shortCode": "6311",
+    "shortCode": "631",
     "code": "국채 3-10년 선물인버스-2X지수"
   },
   {
-    "shortCode": "6321",
+    "shortCode": "632",
     "code": "국채선물 3년-10년 일드커브 스티프닝"
   },
   {
-    "shortCode": "6322",
+    "shortCode": "632",
     "code": "국채선물 3년-10년 일드커브 플래트닝"
   },
   {
-    "shortCode": "6323",
+    "shortCode": "632",
     "code": "국채선물 3년-10년 일드커브 스티프닝 2X"
   },
   {
-    "shortCode": "6324",
+    "shortCode": "632",
     "code": "국채선물 3년-10년 일드커브 플래트닝 2X"
   },
   {
-    "shortCode": "6325",
+    "shortCode": "632",
     "code": "KIS CD 금리투자 총수익지수"
   },
   {
-    "shortCode": "6330",
+    "shortCode": "633",
     "code": "KAP 레버리지 국채 30년 TR 지수"
   },
   {
-    "shortCode": "6331",
+    "shortCode": "633",
     "code": "KAP 레버리지 미국채 30년 지수(총수익)"
   },
   {
-    "shortCode": "6332",
+    "shortCode": "633",
     "code": "KAP 3X 레버리지 국채 30년 TR 지수"
   },
   {
-    "shortCode": "6333",
+    "shortCode": "633",
     "code": "KAP 3X 레버리지 미국채 30 년(총수익)"
   },
   {
-    "shortCode": "6400",
+    "shortCode": "640",
     "code": "DJCI 2X Inverse Gold TR"
   },
   {
-    "shortCode": "6401",
+    "shortCode": "640",
     "code": "DJCI 2X Leverage Gold TR"
   },
   {
-    "shortCode": "6402",
+    "shortCode": "640",
     "code": "DJCI 2X Inverse Silver TR"
   },
   {
-    "shortCode": "6403",
+    "shortCode": "640",
     "code": "DJCI 2X Leverage Silver TR"
   },
   {
-    "shortCode": "6404",
+    "shortCode": "640",
     "code": "DJCI Platinum 2X Inverse TR"
   },
   {
-    "shortCode": "6405",
+    "shortCode": "640",
     "code": "DJCI Platinum 2X Leveraged TR"
   },
   {
-    "shortCode": "6500",
+    "shortCode": "650",
     "code": "S&P500 VIX Short-Term F-Index"
   },
   {
-    "shortCode": "6501",
-    "code": "S&P500 VIX Short-Term F-0.5x Inverse"
+    "shortCode": "650",
+    "code": "S&P500 VIX Short-Term F-0.5x Inve"
   },
   {
-    "shortCode": "6502",
+    "shortCode": "650",
     "code": "S&P Japanese Yen Futures"
   },
   {
-    "shortCode": "6503",
-    "code": "S&P Japanese Yen Futures 2x Lever Dail"
+    "shortCode": "650",
+    "code": "S&P Japanese Yen Futures 2x Lever"
   },
   {
-    "shortCode": "6504",
-    "code": "S&P Japanese Yen Futures 2x Inv Daily"
+    "shortCode": "650",
+    "code": "S&P Japanese Yen Futures 2x Inv D"
   },
   {
-    "shortCode": "6601",
+    "shortCode": "660",
     "code": "코스피 커버드콜 5% OTM 선물지수"
   },
   {
-    "shortCode": "6602",
+    "shortCode": "660",
     "code": "코스피 커버드풋 5% OTM 선물지수"
   },
   {
-    "shortCode": "6603",
+    "shortCode": "660",
     "code": "iSTOXX Vietnam Futures"
   },
   {
-    "shortCode": "6604",
-    "code": "iSTOXX Vietnam Futures Daily Short"
+    "shortCode": "660",
+    "code": "iSTOXX Vietnam Futures Daily Shor"
   },
   {
-    "shortCode": "6605",
-    "code": "iSTOXX Vietnam Futures Daily Leverage"
+    "shortCode": "660",
+    "code": "iSTOXX Vietnam Futures Daily Leve"
   },
   {
-    "shortCode": "6606",
-    "code": "iSTOXX Vietnam Futures Daily Short 2"
+    "shortCode": "660",
+    "code": "iSTOXX Vietnam Futures Daily Shor"
   },
   {
-    "shortCode": "6611",
+    "shortCode": "661",
     "code": "WISE 삼성그룹 밸류 인덱스"
   },
   {
-    "shortCode": "6612",
+    "shortCode": "661",
     "code": "WISE LowVOL 인덱스"
   },
   {
-    "shortCode": "6613",
+    "shortCode": "661",
     "code": "WISE 셀렉트 배당"
   },
   {
-    "shortCode": "6614",
+    "shortCode": "661",
     "code": "WISE K150 Quant 인덱스"
   },
   {
-    "shortCode": "6615",
+    "shortCode": "661",
     "code": "스마트리밸런싱 250/3 A 지수"
   },
   {
-    "shortCode": "6616",
+    "shortCode": "661",
     "code": "WISE 롱숏 K150 로우볼 지수"
   },
   {
-    "shortCode": "6617",
+    "shortCode": "661",
     "code": "WISE BIG5 동일가중 TR 지수"
   },
   {
-    "shortCode": "6618",
+    "shortCode": "661",
     "code": "WISE 스마트베타 Quality 지수"
   },
   {
-    "shortCode": "6619",
+    "shortCode": "661",
     "code": "WISE 스마트베타 Momentum"
   },
   {
-    "shortCode": "6620",
+    "shortCode": "662",
     "code": "WISE 스마트베타 Value"
   },
   {
-    "shortCode": "6621",
+    "shortCode": "662",
     "code": "WISE Monthly Best 11"
   },
   {
-    "shortCode": "6622",
+    "shortCode": "662",
     "code": "WISE Q150 Monthly Best 11 지수"
   },
   {
-    "shortCode": "6623",
+    "shortCode": "662",
     "code": "WISE 여행레저 지수"
   },
   {
-    "shortCode": "6624",
+    "shortCode": "662",
     "code": "WISE 미디어컨텐츠 지수"
   },
   {
-    "shortCode": "6625",
+    "shortCode": "662",
     "code": "WISE 화장품 지수"
   },
   {
-    "shortCode": "6626",
+    "shortCode": "662",
     "code": "WISE 우량주 Monthly Best 11 지수"
   },
   {
-    "shortCode": "6627",
+    "shortCode": "662",
     "code": "WISE 셀렉트 모멘텀 섹터 지수"
   },
   {
-    "shortCode": "6628",
+    "shortCode": "662",
     "code": "WISE 전기전자 테마 TR 지수"
   },
   {
-    "shortCode": "6629",
+    "shortCode": "662",
     "code": "WISE 화학 테마 TR 지수"
   },
   {
-    "shortCode": "6630",
+    "shortCode": "663",
     "code": "WISE 전기전자 테마 인버스 지수"
   },
   {
-    "shortCode": "6631",
+    "shortCode": "663",
     "code": "WISE 화학 테마 인버스 지수"
   },
   {
-    "shortCode": "6632",
+    "shortCode": "663",
     "code": "한경 WISE KR Premire 지수"
   },
   {
-    "shortCode": "6633",
+    "shortCode": "663",
     "code": "WISE 스마트베타 LowVOL 지수"
   },
   {
-    "shortCode": "6634",
+    "shortCode": "663",
     "code": "WISE 스마트베타 지수"
   },
   {
-    "shortCode": "6636",
+    "shortCode": "663",
     "code": "WISE 주주환원 지수"
   },
   {
-    "shortCode": "6637",
+    "shortCode": "663",
     "code": "WISE 미디어엔터 테마 TR 지수"
   },
   {
-    "shortCode": "6638",
+    "shortCode": "663",
     "code": "WISE 미디어엔터 테마 인버스 TR"
   },
   {
-    "shortCode": "6639",
+    "shortCode": "663",
     "code": "WISE Q150 TOP5 TR 지수"
   },
   {
-    "shortCode": "6640",
+    "shortCode": "664",
     "code": "스마트 리밸런싱 250/3 A 레버리지"
   },
   {
-    "shortCode": "6642",
+    "shortCode": "664",
     "code": "WISE 지속가능배당주"
   },
   {
-    "shortCode": "6644",
+    "shortCode": "664",
     "code": "WISE ESG 우수기업지수"
   },
   {
-    "shortCode": "6646",
+    "shortCode": "664",
     "code": "WISE 게임 테마 지수"
   },
   {
-    "shortCode": "6647",
+    "shortCode": "664",
     "code": "WISE 2차전지 테마 AI 지수"
   },
   {
-    "shortCode": "6648",
+    "shortCode": "664",
     "code": "WISE 게임 테마 AI지수"
   },
   {
-    "shortCode": "6649",
+    "shortCode": "664",
     "code": "WISE 업종대표주 TR지수"
   },
   {
-    "shortCode": "6707",
+    "shortCode": "670",
     "code": "K200 커버드콜 ATM"
   },
   {
-    "shortCode": "6708",
+    "shortCode": "670",
     "code": "K200 커버드콜 ATM 레버리지"
   },
   {
-    "shortCode": "6709",
+    "shortCode": "670",
     "code": "K200 고배당 커버드콜 ATM"
   },
   {
-    "shortCode": "6711",
+    "shortCode": "671",
     "code": "K200 리스크컨트롤6%"
   },
   {
-    "shortCode": "6712",
+    "shortCode": "671",
     "code": "K200 리스크컨트롤8%"
   },
   {
-    "shortCode": "6713",
+    "shortCode": "671",
     "code": "K200 리스크컨트롤10%"
   },
   {
-    "shortCode": "6714",
+    "shortCode": "671",
     "code": "K200 리스크컨트롤12%"
   },
   {
-    "shortCode": "6717",
+    "shortCode": "671",
     "code": "코스피 양매도 5% OTM지수"
   },
   {
-    "shortCode": "6719",
+    "shortCode": "671",
     "code": "코스피 양매도 ATM지수"
   },
   {
-    "shortCode": "6720",
+    "shortCode": "672",
     "code": "코스피 양매도 3% OTM지수"
   },
   {
-    "shortCode": "6725",
+    "shortCode": "672",
     "code": "코스피선물커버드콜 ATM 지수"
   },
   {
-    "shortCode": "6726",
+    "shortCode": "672",
     "code": "코스피선물커버드콜 3% OTM 지수"
   },
   {
-    "shortCode": "6727",
+    "shortCode": "672",
     "code": "코스피선물커버드풋 ATM지수"
   },
   {
-    "shortCode": "6728",
+    "shortCode": "672",
     "code": "코스피선물커버드풋 3% OTM 지수"
   },
   {
-    "shortCode": "6732",
+    "shortCode": "673",
     "code": "K200 현선물 목표변동성 24% 지수"
   },
   {
-    "shortCode": "6737",
+    "shortCode": "673",
     "code": "코스피200 타겟볼20 선물"
   },
   {
-    "shortCode": "6811",
+    "shortCode": "681",
     "code": "주식골드지수"
   },
   {
-    "shortCode": "6813",
+    "shortCode": "681",
     "code": "주식국채혼합형(주식형)"
   },
   {
-    "shortCode": "6814",
+    "shortCode": "681",
     "code": "주식국채혼합형(채권형)"
   },
   {
-    "shortCode": "6815",
+    "shortCode": "681",
     "code": "코스피 200 DAE지수"
   },
   {
-    "shortCode": "6817",
+    "shortCode": "681",
     "code": "K200 USD 선물 바이셀지수"
   },
   {
-    "shortCode": "6818",
+    "shortCode": "681",
     "code": "USD K200 선물 바이셀지수"
   },
   {
-    "shortCode": "6819",
+    "shortCode": "681",
     "code": "필수소비재채권혼합"
   },
   {
-    "shortCode": "6820",
+    "shortCode": "682",
     "code": "배당성장채권혼합"
   },
   {
-    "shortCode": "6821",
+    "shortCode": "682",
     "code": "코스피200미국채혼합지수"
   },
   {
-    "shortCode": "6822",
+    "shortCode": "682",
     "code": "KRX 300 미국달러 선물혼합지수"
   },
   {
-    "shortCode": "6823",
+    "shortCode": "682",
     "code": "코스피200 롱 코스닥150 숏 선물지수"
   },
   {
-    "shortCode": "6824",
+    "shortCode": "682",
     "code": "코스닥150 롱 코스피200 숏 선물지수"
   },
   {
-    "shortCode": "6825",
+    "shortCode": "682",
     "code": "코스피200 롱 코스닥150 0.5 숏 선물지수"
   },
   {
-    "shortCode": "6826",
+    "shortCode": "682",
     "code": "코스닥150 롱 코스피200 0.5 숏 선물지수"
   },
   {
-    "shortCode": "6827",
+    "shortCode": "682",
     "code": "코스닥150 미국달러 현선물혼합지수"
   },
   {
-    "shortCode": "6830",
+    "shortCode": "683",
     "code": "Nikkei 225 Futures Index"
   },
   {
-    "shortCode": "6831",
+    "shortCode": "683",
     "code": "Nikkei 225 Futures Inverse Index"
   },
   {
-    "shortCode": "6832",
-    "code": "Nikkei 225 Futures Leveraged Index"
+    "shortCode": "683",
+    "code": "Nikkei 225 Futures Leveraged Inde"
   },
   {
-    "shortCode": "6833",
-    "code": "Nikkei 225 Futures Double Inverse Inde"
+    "shortCode": "683",
+    "code": "Nikkei 225 Futures Double Inverse"
   },
   {
-    "shortCode": "6841",
+    "shortCode": "684",
     "code": "코스피200 10년국채 선물혼합지수"
   },
   {
-    "shortCode": "6845",
+    "shortCode": "684",
     "code": "KRX 2차전지 TOP 10 선물 TWAP 지수"
   },
   {
-    "shortCode": "6846",
+    "shortCode": "684",
     "code": "KRX 2차전지 TOP 10 선물 TWAP 인버스지수"
   },
   {
-    "shortCode": "6892",
+    "shortCode": "689",
     "code": "KRX BBIG 주식국채혼합(채권형)"
   },
   {
-    "shortCode": "6893",
+    "shortCode": "689",
     "code": "KRX 2차전지TOP 10 주식국채혼합(채권형)"
   },
   {
-    "shortCode": "6951",
+    "shortCode": "695",
     "code": "ChinaBond 5년 국채 TR 원화 지수"
   },
   {
-    "shortCode": "6961",
+    "shortCode": "696",
     "code": "WISE-KAP 스마트베타 Q 채권혼합"
   },
   {
-    "shortCode": "6971",
+    "shortCode": "697",
     "code": "부동산인프라채권혼합A(채권)"
   },
   {
-    "shortCode": "6972",
-    "code": "FTSE 100 Total Return Declared Dividen"
+    "shortCode": "697",
+    "code": "FTSE 100 Total Return Declared Di"
   },
   {
-    "shortCode": "6973",
-    "code": "EURO iSTOXX Short Strangle KWCDC Index"
+    "shortCode": "697",
+    "code": "EURO iSTOXX Short Strangle KWCDC"
   },
   {
-    "shortCode": "6974",
-    "code": "CBOE S&P 500 4% OTM Short Strangle Ind"
+    "shortCode": "697",
+    "code": "CBOE S&P 500 4% OTM Short Strangl"
   },
   {
-    "shortCode": "6975",
-    "code": "Bloomberg Natural Gas 2X Leveraged TR"
+    "shortCode": "697",
+    "code": "Bloomberg Natural Gas 2X Leverage"
   },
   {
-    "shortCode": "6976",
-    "code": "Bloomberg Natural Gas 2X Inverse TR"
+    "shortCode": "697",
+    "code": "Bloomberg Natural Gas 2X Inverse"
   },
   {
-    "shortCode": "6977",
-    "code": "Bloomberg Indonesia Energy & Metal"
+    "shortCode": "697",
+    "code": "Bloomberg Indonesia Energy & Meta"
   },
   {
-    "shortCode": "6978",
+    "shortCode": "697",
     "code": "MSCI Japan IMI Trading Companies"
   },
   {
-    "shortCode": "7001",
+    "shortCode": "700",
     "code": "코스피200 동일가중지수"
   },
   {
-    "shortCode": "7002",
+    "shortCode": "700",
     "code": "코스피100 동일가중지수"
   },
   {
-    "shortCode": "7003",
+    "shortCode": "700",
     "code": "코스피50 동일가중지수"
   },
   {
-    "shortCode": "7004",
+    "shortCode": "700",
     "code": "KRX100 동일가중지수"
   },
   {
-    "shortCode": "7010",
+    "shortCode": "701",
     "code": "SPGSCL"
   },
   {
-    "shortCode": "9001",
+    "shortCode": "900",
     "code": "KTB index(총수익)"
   },
   {
-    "shortCode": "9002",
+    "shortCode": "900",
     "code": "KTB index(순가격)"
   },
   {
-    "shortCode": "9003",
+    "shortCode": "900",
     "code": "KTB index(시장가격)"
   },
   {
-    "shortCode": "9101",
+    "shortCode": "910",
     "code": "KEBI 국고채종합(총수익)"
   },
   {
-    "shortCode": "9102",
+    "shortCode": "910",
     "code": "KEBI 국고채종합(순가격"
   },
   {
-    "shortCode": "9103",
+    "shortCode": "910",
     "code": "KEBI 국고채종합(시장가격)"
   },
   {
-    "shortCode": "9104",
+    "shortCode": "910",
     "code": "KEBI 국고채3년(총수익)"
   },
   {
-    "shortCode": "9105",
+    "shortCode": "910",
     "code": "KEBI 국고채3년(순가격"
   },
   {
-    "shortCode": "9106",
+    "shortCode": "910",
     "code": "KEBI 국고채3년(시장가격)"
   },
   {
-    "shortCode": "9107",
+    "shortCode": "910",
     "code": "KEBI 국고채5년(총수익)"
   },
   {
-    "shortCode": "9108",
+    "shortCode": "910",
     "code": "KEBI 국고채5년(순가격"
   },
   {
-    "shortCode": "9109",
+    "shortCode": "910",
     "code": "KEBI 국고채5년(시장가격)"
   },
   {
-    "shortCode": "9110",
+    "shortCode": "911",
     "code": "KEBI 국고채F3(총수익)"
   },
   {
-    "shortCode": "9111",
+    "shortCode": "911",
     "code": "KEBI 국고채F3(순가격"
   },
   {
-    "shortCode": "9112",
+    "shortCode": "911",
     "code": "KEBI 국고채F3(시장가격)"
   },
   {
-    "shortCode": "9201",
+    "shortCode": "920",
     "code": "MKF 국고채지수(총수익)"
   },
   {
-    "shortCode": "9202",
+    "shortCode": "920",
     "code": "MKF 국고채지수(순가격)"
   },
   {
-    "shortCode": "9203",
+    "shortCode": "920",
     "code": "MKF 국고채지수(시장가격)"
   },
   {
-    "shortCode": "9301",
+    "shortCode": "930",
     "code": "매경통안채지수(총수익)"
   },
   {
-    "shortCode": "9302",
+    "shortCode": "930",
     "code": "매경통안채지수(순가격)"
   },
   {
-    "shortCode": "9303",
+    "shortCode": "930",
     "code": "매경통안채지수(시장가격)"
   },
   {
-    "shortCode": "9999",
+    "shortCode": "999",
     "code": ""
   },
   {
-    "shortCode": "E199",
+    "shortCode": "E19",
     "code": "ETN"
   },
   {
-    "shortCode": "G000",
+    "shortCode": "G00",
     "code": "GOLD"
   },
   {
-    "shortCode": "P000",
+    "shortCode": "P00",
     "code": "PFC"
   },
   {
-    "shortCode": "T000",
+    "shortCode": "T00",
     "code": "ETF"
   },
   {
-    "shortCode": "W000",
+    "shortCode": "W00",
     "code": "ELW"
   }
 ]

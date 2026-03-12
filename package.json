@@ -13,10 +13,9 @@
         "start:debug": "nest start --debug --watch",
         "start:prod": "node dist/src/main",
         "lint": "eslint \"{src,apps,libs,test}/**/*.ts\" --fix",
-        "update-mst": "npm run download-mst-files && npm run convert-korea-investment-code",
+        "update-mst": "npm run download-mst-files && npm run parse-mst-files",
         "download-mst-files": "ts-node scripts/download-mst-files/index.ts",
-        "convert-korea-investment-code": "ts-node ./scripts/sector-code-parse/index.ts && ts-node ./scripts/stock-code-parse/index.ts && ts-node ./scripts/theme-parse/index.ts",
-        "convert-korea-investment-overseas-code": "ts-node ./scripts/overseas-index-code-parse/index.ts"
+        "parse-mst-files": "ts-node scripts/mst-parser/index.ts"
     },
     "dependencies": {
         "@nestjs/common": "^11.0.1",
@@ -27,6 +26,7 @@
         "adm-zip": "^0.5.16",
         "axios": "^1.13.6",
         "axios-retry": "^4.5.0",
+        "npm-test-jissp": "^1.0.0",
         "reflect-metadata": "^0.2.2",
         "rxjs": "^7.8.1"
     },
