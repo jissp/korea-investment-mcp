@@ -1,0 +1,47 @@
+import * as fs from 'node:fs';
+import * as path from 'node:path';
+import { Parser } from './parser';
+
+interface StockCode {
+    shortCode: string;
+    code: string;
+    name: string;
+}
+
+function main() {
+    const parser = new Parser();
+
+    const mstFileNames = [
+        'kospi_code',
+        'kosdaq_code',
+        'nxt_kospi_code',
+        'nxt_kosdaq_code',
+    ];
+
+    for (const fileName of mstFileNames) {
+        const filePath = path.join(__dirname, '../temp', `${fileName}.mst`);
+        const codes = parser.parse(filePath);
+
+        const codeJson = codes.map(([shortCode, code, name]): StockCode => {
+            return {
+                shortCode,
+                code,
+                name,
+            };
+        });
+
+        const outputPath = path.join(
+            __dirname,
+            '..',
+            '..',
+            'src',
+            'common',
+            'assets',
+            `${fileName}.json`,
+        );
+
+        fs.writeFileSync(outputPath, JSON.stringify(codeJson, null, 2));
+    }
+}
+
+main();
