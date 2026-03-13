@@ -1,6 +1,6 @@
 import { Injectable } from '@nestjs/common';
-import type { JsonRpcCallRequest } from 'jissp-mcp-server-nestjs';
-import { BaseExecutor, McpResource, McpTool } from 'jissp-mcp-server-nestjs';
+import type { JsonRpcCallRequest } from '@jissp/nestjs-mcp-server';
+import { BaseExecutor, McpResource, McpTool } from '@jissp/nestjs-mcp-server';
 import kospiData from '@common/assets/kospi_code.json';
 import kosdaqData from '@common/assets/kosdaq_code.json';
 

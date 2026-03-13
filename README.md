@@ -2,12 +2,12 @@
 
 이 프로젝트는 한국투자증권 OpenAPI를 활용하여 주식 및 파생상품 정보를 제공하는 MCP(Model Context Protocol) 서버입니다.
 
-직접 만든 [jissp-mcp-server-nestjs](https://www.npmjs.com/package/jissp-mcp-server-nestjs) 라이브러리를 사용하여 구축했으며, Claude와 같은 AI 모델이 실시간 주가 조회, 순위 분석, 투자자 매매 동향 등의 데이터를 직접 활용할 수 있게 합니다.
+직접 만든 [@jissp/nestjs-mcp-server](https://www.npmjs.com/package/@jissp/nestjs-mcp-server) 를 사용하였고, AI 모델이 한국투자증권의 실시간 주가 조회, 순위 분석, 투자자 매매 동향 등의 데이터를 직접 활용할 수 있게 합니다.
 
 ## 주요 특징
 
 - **NestJS 기반**: 확장 가능하고 유지보수가 용이한 아키텍처
-- **jissp-mcp-server-nestjs**: 직접 만든 NestJS MCP 라이브러리 사용
+- **@jissp/nestjs-mcp-server**: 직접 만든 NestJS MCP 라이브러리 사용
 - **SSE(Server-Sent Events) 지원**: 실시간 데이터 전송 최적화
 - **다양한 금융 데이터**: 주식, 선물, 옵션, 투자자 동향 등 포괄적인 API 제공
 

@@ -1,6 +1,6 @@
 import { Injectable } from '@nestjs/common';
 import { KoreaInvestmentClient } from '@modules/korea-investment/korea-investment-client';
-import { BaseExecutor, McpResource, McpTool } from 'jissp-mcp-server-nestjs';
+import { BaseExecutor, McpResource, McpTool } from '@jissp/nestjs-mcp-server';
 
 @Injectable()
 export class HtsTopViewExecutor implements BaseExecutor {

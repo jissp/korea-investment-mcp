@@ -1,8 +1,8 @@
 import { Injectable } from '@nestjs/common';
 import type { DomesticStockVolumeRankParam } from '@modules/korea-investment/common';
 import { KoreaInvestmentClient } from '@modules/korea-investment/korea-investment-client';
-import type { JsonRpcCallRequest } from 'jissp-mcp-server-nestjs';
-import { BaseExecutor, McpResource, McpTool } from 'jissp-mcp-server-nestjs';
+import type { JsonRpcCallRequest } from '@jissp/nestjs-mcp-server';
+import { BaseExecutor, McpResource, McpTool } from '@jissp/nestjs-mcp-server';
 
 export type VolumeRankExecutorParams = Omit<
     DomesticStockVolumeRankParam,

@@ -1,5 +1,5 @@
 import { Module } from '@nestjs/common';
-import { McpServerModule } from 'jissp-mcp-server-nestjs';
+import { McpServerModule } from '@jissp/nestjs-mcp-server';
 import { KoreaInvestmentClientModule } from '@modules/korea-investment/korea-investment-client';
 import {
     CreditBalanceRankExecutor,
