@@ -1,7 +1,7 @@
 import { Injectable } from '@nestjs/common';
 import type { InquireIndexDailyPriceParam } from '@modules/korea-investment/common';
 import { KoreaInvestmentClient } from '@modules/korea-investment/korea-investment-client';
-import type { JsonRpcCallRequest } from '@jissp/nestjs-mcp-server';
+import type { JsonRpcToolRequest } from '@jissp/nestjs-mcp-server';
 import { BaseExecutor, McpResource, McpTool } from '@jissp/nestjs-mcp-server';
 
 export type InquireIndexDailyPriceExecutorParams = Pick<
@@ -46,7 +46,7 @@ export class InquireIndexDailyPriceExecutor implements BaseExecutor {
         description: '국내업종 일자별지수를 조회합니다.',
         mimeType: 'application/json',
     })
-    execute(request: JsonRpcCallRequest<InquireIndexDailyPriceExecutorParams>) {
+    execute(request: JsonRpcToolRequest<InquireIndexDailyPriceExecutorParams>) {
         const {
             params: {
                 arguments: {

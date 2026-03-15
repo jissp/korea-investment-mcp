@@ -1,7 +1,7 @@
 import { Injectable } from '@nestjs/common';
 import type { SearchStockInfoParam } from '@modules/korea-investment/common';
 import { KoreaInvestmentClient } from '@modules/korea-investment/korea-investment-client';
-import type { JsonRpcCallRequest } from '@jissp/nestjs-mcp-server';
+import type { JsonRpcToolRequest } from '@jissp/nestjs-mcp-server';
 import { BaseExecutor, McpResource, McpTool } from '@jissp/nestjs-mcp-server';
 
 export type SearchStockInfoExecutorParams = SearchStockInfoParam;
@@ -35,7 +35,7 @@ export class SearchStockInfoExecutor implements BaseExecutor {
         description: '주식기본정보를 조회합니다.',
         mimeType: 'application/json',
     })
-    execute(request: JsonRpcCallRequest<SearchStockInfoExecutorParams>) {
+    execute(request: JsonRpcToolRequest<SearchStockInfoExecutorParams>) {
         const {
             params: {
                 arguments: { PRDT_TYPE_CD, PDNO },

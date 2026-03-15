@@ -1,7 +1,7 @@
 import { Injectable } from '@nestjs/common';
 import type { DomesticStockFluctuationRankParam } from '@modules/korea-investment/common';
 import { KoreaInvestmentClient } from '@modules/korea-investment/korea-investment-client';
-import type { JsonRpcCallRequest } from '@jissp/nestjs-mcp-server';
+import type { JsonRpcToolRequest } from '@jissp/nestjs-mcp-server';
 import { BaseExecutor, McpResource, McpTool } from '@jissp/nestjs-mcp-server';
 
 export type FluctuationRankExecutorParams = Omit<
@@ -97,7 +97,7 @@ export class FluctuationRankExecutor implements BaseExecutor {
         description: '국내주식 등락률순위를 조회합니다.',
         mimeType: 'application/json',
     })
-    execute(request: JsonRpcCallRequest<FluctuationRankExecutorParams>) {
+    execute(request: JsonRpcToolRequest<FluctuationRankExecutorParams>) {
         const {
             params: { arguments: params },
         } = request;

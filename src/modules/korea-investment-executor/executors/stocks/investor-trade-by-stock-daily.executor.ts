@@ -1,7 +1,7 @@
 import { Injectable } from '@nestjs/common';
 import type { DomesticStockInvestorTradeByStockDailyParam } from '@modules/korea-investment/common';
 import { KoreaInvestmentClient } from '@modules/korea-investment/korea-investment-client';
-import type { JsonRpcCallRequest } from '@jissp/nestjs-mcp-server';
+import type { JsonRpcToolRequest } from '@jissp/nestjs-mcp-server';
 import { BaseExecutor, McpResource, McpTool } from '@jissp/nestjs-mcp-server';
 
 export type InvestorTradeByStockDailyExecutorParams = Omit<
@@ -47,7 +47,7 @@ export class InvestorTradeByStockDailyExecutor implements BaseExecutor {
         mimeType: 'application/json',
     })
     execute(
-        request: JsonRpcCallRequest<InvestorTradeByStockDailyExecutorParams>,
+        request: JsonRpcToolRequest<InvestorTradeByStockDailyExecutorParams>,
     ) {
         const {
             params: { arguments: params },

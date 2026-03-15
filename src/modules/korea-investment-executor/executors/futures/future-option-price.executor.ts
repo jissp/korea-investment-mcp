@@ -1,7 +1,7 @@
 import { Injectable } from '@nestjs/common';
 import type { DomesticFutureOptionPriceParam } from '@modules/korea-investment/common';
 import { KoreaInvestmentClient } from '@modules/korea-investment/korea-investment-client';
-import type { JsonRpcCallRequest } from '@jissp/nestjs-mcp-server';
+import type { JsonRpcToolRequest } from '@jissp/nestjs-mcp-server';
 import { BaseExecutor, McpResource, McpTool } from '@jissp/nestjs-mcp-server';
 
 export type FutureOptionPriceExecutorParams = DomesticFutureOptionPriceParam;
@@ -35,7 +35,7 @@ export class FutureOptionPriceExecutor implements BaseExecutor {
         description: '선물옵션 시세조회를 합니다.',
         mimeType: 'application/json',
     })
-    execute(request: JsonRpcCallRequest<FutureOptionPriceExecutorParams>) {
+    execute(request: JsonRpcToolRequest<FutureOptionPriceExecutorParams>) {
         const {
             params: { arguments: params },
         } = request;

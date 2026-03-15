@@ -1,7 +1,7 @@
 import { Injectable } from '@nestjs/common';
 import type { InquireIntstockMultpriceParam } from '@modules/korea-investment/common';
 import { KoreaInvestmentClient } from '@modules/korea-investment/korea-investment-client';
-import type { JsonRpcCallRequest } from '@jissp/nestjs-mcp-server';
+import type { JsonRpcToolRequest } from '@jissp/nestjs-mcp-server';
 import { BaseExecutor, McpResource, McpTool } from '@jissp/nestjs-mcp-server';
 
 export type IntstockMultiPriceExecutorParams = InquireIntstockMultpriceParam;
@@ -51,7 +51,7 @@ export class IntstockMultiPriceExecutor implements BaseExecutor {
         description: '관심종목(멀티종목) 시세조회를 합니다.',
         mimeType: 'application/json',
     })
-    execute(request: JsonRpcCallRequest<IntstockMultiPriceExecutorParams>) {
+    execute(request: JsonRpcToolRequest<IntstockMultiPriceExecutorParams>) {
         const {
             params: { arguments: params },
         } = request;

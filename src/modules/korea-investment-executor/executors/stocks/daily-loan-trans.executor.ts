@@ -1,7 +1,7 @@
 import { Injectable } from '@nestjs/common';
 import type { DomesticStockDailyLoanTransParam } from '@modules/korea-investment/common';
 import { KoreaInvestmentClient } from '@modules/korea-investment/korea-investment-client';
-import type { JsonRpcCallRequest } from '@jissp/nestjs-mcp-server';
+import type { JsonRpcToolRequest } from '@jissp/nestjs-mcp-server';
 import { BaseExecutor, McpResource, McpTool } from '@jissp/nestjs-mcp-server';
 
 export type DailyLoanTransExecutorParams = Omit<
@@ -50,7 +50,7 @@ export class DailyLoanTransExecutor implements BaseExecutor {
         description: '종목별 일별 대차거래추이를 조회합니다.',
         mimeType: 'application/json',
     })
-    execute(request: JsonRpcCallRequest<DailyLoanTransExecutorParams>) {
+    execute(request: JsonRpcToolRequest<DailyLoanTransExecutorParams>) {
         const {
             params: { arguments: params },
         } = request;

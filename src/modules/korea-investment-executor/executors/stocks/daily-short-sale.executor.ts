@@ -1,7 +1,7 @@
 import { Injectable } from '@nestjs/common';
 import type { DomesticStockDailyShortSaleParam } from '@modules/korea-investment/common';
 import { KoreaInvestmentClient } from '@modules/korea-investment/korea-investment-client';
-import type { JsonRpcCallRequest } from '@jissp/nestjs-mcp-server';
+import type { JsonRpcToolRequest } from '@jissp/nestjs-mcp-server';
 import { BaseExecutor, McpResource, McpTool } from '@jissp/nestjs-mcp-server';
 
 export type DailyShortSaleExecutorParams = Omit<
@@ -45,7 +45,7 @@ export class DailyShortSaleExecutor implements BaseExecutor {
         description: '국내주식 공매도 일별추이를 조회합니다.',
         mimeType: 'application/json',
     })
-    execute(request: JsonRpcCallRequest<DailyShortSaleExecutorParams>) {
+    execute(request: JsonRpcToolRequest<DailyShortSaleExecutorParams>) {
         const {
             params: { arguments: params },
         } = request;

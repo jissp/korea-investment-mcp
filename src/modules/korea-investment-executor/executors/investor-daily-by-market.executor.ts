@@ -1,7 +1,7 @@
 import { Injectable } from '@nestjs/common';
 import type { DomesticStockInvestorDailyByMarketParam } from '@modules/korea-investment/common';
 import { KoreaInvestmentClient } from '@modules/korea-investment/korea-investment-client';
-import type { JsonRpcCallRequest } from '@jissp/nestjs-mcp-server';
+import type { JsonRpcToolRequest } from '@jissp/nestjs-mcp-server';
 import { BaseExecutor, McpResource, McpTool } from '@jissp/nestjs-mcp-server';
 
 export type InvestorDailyByMarketExecutorParams = Omit<
@@ -55,7 +55,7 @@ export class InvestorDailyByMarketExecutor implements BaseExecutor {
         description: '시장별 투자자매매동향(일별)을 조회합니다.',
         mimeType: 'application/json',
     })
-    execute(request: JsonRpcCallRequest<InvestorDailyByMarketExecutorParams>) {
+    execute(request: JsonRpcToolRequest<InvestorDailyByMarketExecutorParams>) {
         const {
             params: { arguments: params },
         } = request;

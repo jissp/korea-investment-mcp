@@ -1,6 +1,6 @@
 import { Injectable } from '@nestjs/common';
 import { KoreaInvestmentClient } from '@modules/korea-investment/korea-investment-client';
-import type { JsonRpcCallRequest } from '@jissp/nestjs-mcp-server';
+import type { JsonRpcToolRequest } from '@jissp/nestjs-mcp-server';
 import { BaseExecutor, McpResource, McpTool } from '@jissp/nestjs-mcp-server';
 
 export type GetStockExecutorParams = {
@@ -32,7 +32,7 @@ export class InquireIndexPriceExecutor implements BaseExecutor {
         description: '종목 코드를 기반으로 종목의 정보를 조회합니다.',
         mimeType: 'application/json',
     })
-    execute(request: JsonRpcCallRequest<GetStockExecutorParams>) {
+    execute(request: JsonRpcToolRequest<GetStockExecutorParams>) {
         const {
             params: {
                 arguments: { FID_INPUT_ISCD },

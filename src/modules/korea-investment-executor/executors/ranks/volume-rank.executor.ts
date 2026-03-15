@@ -1,7 +1,7 @@
 import { Injectable } from '@nestjs/common';
 import type { DomesticStockVolumeRankParam } from '@modules/korea-investment/common';
 import { KoreaInvestmentClient } from '@modules/korea-investment/korea-investment-client';
-import type { JsonRpcCallRequest } from '@jissp/nestjs-mcp-server';
+import type { JsonRpcToolRequest } from '@jissp/nestjs-mcp-server';
 import { BaseExecutor, McpResource, McpTool } from '@jissp/nestjs-mcp-server';
 
 export type VolumeRankExecutorParams = Omit<
@@ -77,7 +77,7 @@ export class VolumeRankExecutor implements BaseExecutor {
         description: '거래량순위를 조회합니다.',
         mimeType: 'application/json',
     })
-    execute(request: JsonRpcCallRequest<VolumeRankExecutorParams>) {
+    execute(request: JsonRpcToolRequest<VolumeRankExecutorParams>) {
         const {
             params: { arguments: params },
         } = request;

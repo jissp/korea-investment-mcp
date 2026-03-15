@@ -1,7 +1,7 @@
 import { Injectable } from '@nestjs/common';
 import type { DomesticStockDailyCreditBalanceParam } from '@modules/korea-investment/common';
 import { KoreaInvestmentClient } from '@modules/korea-investment/korea-investment-client';
-import type { JsonRpcCallRequest } from '@jissp/nestjs-mcp-server';
+import type { JsonRpcToolRequest } from '@jissp/nestjs-mcp-server';
 import { BaseExecutor, McpResource, McpTool } from '@jissp/nestjs-mcp-server';
 
 export type DailyCreditBalanceExecutorParams = Omit<
@@ -37,7 +37,7 @@ export class DailyCreditBalanceExecutor implements BaseExecutor {
         description: '국내주식 신용잔고 일별추이를 조회합니다.',
         mimeType: 'application/json',
     })
-    execute(request: JsonRpcCallRequest<DailyCreditBalanceExecutorParams>) {
+    execute(request: JsonRpcToolRequest<DailyCreditBalanceExecutorParams>) {
         const {
             params: { arguments: params },
         } = request;
