@@ -2,12 +2,9 @@ node_modules
 dist
 npm-debug.log
 .git
-.env
 .prettierrc
 eslint.config.mjs
 nest-cli.json
-tsconfig.build.json
-tsconfig.json
 README.md
 Dockerfile
 .dockerignore
